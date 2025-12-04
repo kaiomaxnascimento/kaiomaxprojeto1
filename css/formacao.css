@@ -19,7 +19,7 @@
   width: 130px;
   height: 130px;
   position: absolute;
-  background: url("/img/detalhe.svg") no-repeat;
+  background: url("./img/detalhe.svg") no-repeat;
   bottom: -65px;
   left: 20px;
 }
@@ -109,7 +109,7 @@
   width: 24px;
   height: 24px;
   position: absolute;
-  background: url("/img/cursos.svg") no-repeat;
+  background: url("./img/cursos.svg") no-repeat;
   left: -40px;
   top: 25px;
 }
@@ -140,7 +140,7 @@
   width: 24px;
   height: 24px;
   position: absolute;
-  background: url("/img/idiomas.svg") no-repeat;
+  background: url("./img/idiomas.svg") no-repeat;
   left: -40px;
   top: 25px;
 }
@@ -194,7 +194,7 @@
   width: 61px;
   height: 95px;
   position: absolute;
-  background: url("/img/detalhe.svg") no-repeat;
+  background: url("./img/detalhe.svg") no-repeat;
   bottom: -25px;
   left: 30px;
 }
